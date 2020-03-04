@@ -1,0 +1,5 @@
+is_block,,feedback_date,feedback_ip,6_Name,7_Select one,8_Weight,9_Rep,10_
+1,Crushers_Training,2020-03-04T16:17:56+09:00,219.124.144.247,Tsu,BenchPress,100,8,
+1,Crushers_Training,2020-03-04T16:18:16+09:00,219.124.144.247,Hiro,BenchPress,120,8,
+1,Crushers_Training,2020-03-04T16:19:30+09:00,219.124.144.247,Tsu,BenchPress,80,9,"10, 20, 40"
+1,Crushers_Training,2020-03-04T16:19:30+09:00,219.124.144.247,Tsu,Squat,80,9,"10, 20, 40"
